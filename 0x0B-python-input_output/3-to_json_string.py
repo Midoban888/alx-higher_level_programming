@@ -17,4 +17,3 @@ def to_json_string(my_obj):
 
     # serializing json
     return json.dumps(my_obj)
-
